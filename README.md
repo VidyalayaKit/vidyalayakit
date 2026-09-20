@@ -11,7 +11,7 @@ A made in Nepal freely available, community-built School Software bundle — wit
 
 ## About
 
-Vidyalaya Kit is a made in Nepal ready to use, freely available and community-built School Software bundle. It is released under an [**Open-core model**](https://en.wikipedia.org/wiki/Open-core_model){:target="_blank"}.
+Vidyalaya Kit is a made in Nepal ready to use, freely available and community-built School Software bundle. It is released under an [**Open-core model**](https://en.wikipedia.org/wiki/Open-core_model).
 
 It contains a set of softwares like simple School website template or others which are free to use for any school while deployment, customization, CMS integration, and support are offered as paid services delivered exclusively by **Dhanu Tech Team**, a group of developers who have been verified as **Dhanu Tech Team Developer** - see [CONTRIBUTING.md Track 2](./CONTRIBUTING.md#-track-2-dhanu-tech-team-developer-for-those-who-want-to-sell-services) to know more about Dhanu Tech Team Developer.
 
@@ -62,7 +62,7 @@ We welcome code contributions from anyone — students, hobbyists, teachers or p
 
 ## Sponsor
 
-**Vidyalaya Kit** is proudly sponsored by [**Code To Earn Pvt. Ltd.**](https://www.codetoearn.com.np){:target="_blank"}, which provides the legal, financial, and organizational backing for this project and the wider Dhanu Tech community — including hosting, development resources, and support for the Dhanu Sir training initiative.
+**Vidyalaya Kit** is proudly sponsored by [**Code To Earn Pvt. Ltd.**](https://www.codetoearn.com.np), which provides the legal, financial, and organizational backing for this project and the wider Dhanu Tech community — including hosting, development resources, and support for the Dhanu Sir training initiative.
 
 ## About Dhanu Tech Community
 
